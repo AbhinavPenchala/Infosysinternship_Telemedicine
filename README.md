@@ -51,7 +51,7 @@
 
 ---
 ## Team 3
-**Gayatri Gide**
-**Abhinav Patel**
+- **Gayatri Gide**
+- **Abhinav Patel**
 
-
+----
