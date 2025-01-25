@@ -9,6 +9,12 @@
 - **Key Insights**:
   - Risk prediction for patients based on historical data.
   - Identification of patterns in patient records for early diagnosis.
+-![image](https://github.com/user-attachments/assets/d424c48d-6f65-417c-bea0-0fcd2e046ba4) -![image](https://github.com/user-attachments/assets/e6dbadcf-6ec6-492c-b472-902eb8b1f54a)
+-![image](https://github.com/user-attachments/assets/71c3d178-58c1-4f78-b3fb-553050bb44f2)  -![image](https://github.com/user-attachments/assets/54c76980-d9e2-4c1f-8bfc-ae21904197e3)
+-![image](https://github.com/user-attachments/assets/d6d94f47-c742-4f39-b970-f95c74cbce77)  -![image](https://github.com/user-attachments/assets/4a5e1c82-ce6b-4f06-b4ca-03db875fa167)
+
+
+
 
   ----
 
