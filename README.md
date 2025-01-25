@@ -35,7 +35,8 @@
 - **Features**:
   -Risk Assessment: Calculate a total disease risk score based on input conditions and severity levels.
   -Visualization: Interactive chart displaying detailed risk breakdown and follow-up recommendations.
- 
+ ![image](https://github.com/user-attachments/assets/204d7c52-4d47-41ae-a004-06b83871f94a)
+
 
 ---
 
