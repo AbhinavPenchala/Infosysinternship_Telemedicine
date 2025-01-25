@@ -20,6 +20,7 @@
 - **Key Insights**:
   - Improved understanding of patient concerns.
   - Recommendations for better patient care based on sentiment trends.
+  - ![image](https://github.com/user-attachments/assets/85cb0c56-e2aa-4e6a-aff6-291448c70336)
 
   ----
 ## Additional Features
@@ -29,13 +30,21 @@
 - **Features**:
   - Interactive interface for symptom input.
   - Real-time disease prediction using machine learning models.
-
+  - 
+### Interactive Dashboard
+- **Objective**Provide an advanced platform for analyzing healthcare data, enabling better decision-making for healthcare professionals.
+- **Features**:
+ -Data filtering, risk predictions, and dynamic visualizations for trend analysis.
+ -Exportable insights and customizable user experiences for different roles.
+  - ![image](https://github.com/user-attachments/assets/37e1231e-1583-4d78-a078-fc6150af918d)   ![image](https://github.com/user-attachments/assets/0c89ca96-018f-4a37-8f4f-be288502181e)
+-
+ 
 ### Appointment Scheduler
 - **Objective**: Enable patients to book appointments seamlessly using  Streamlit
 - **Features**:
   -Risk Assessment: Calculate a total disease risk score based on input conditions and severity levels.
   -Visualization: Interactive chart displaying detailed risk breakdown and follow-up recommendations.
- ![image](https://github.com/user-attachments/assets/204d7c52-4d47-41ae-a004-06b83871f94a)
+ - ![image](https://github.com/user-attachments/assets/204d7c52-4d47-41ae-a004-06b83871f94a)  
 
 
 ---
