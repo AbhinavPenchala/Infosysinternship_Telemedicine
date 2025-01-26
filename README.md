@@ -38,40 +38,36 @@
 
   ----
 ## Additional Features
-
-### Symptom and Disease Predictor
-- **Objective**: Create a GUI-based tool to predict diseases based on symptoms entered by users and vice-versa.
-- **Features**:
-  - Interactive interface for symptom input.
-  - Real-time disease prediction using machine learning models.
   - 
 ### Interactive Dashboard
 - **Objective**Provide an advanced platform for analyzing healthcare data, enabling better decision-making for healthcare professionals.
 - **Features**:
- -Data filtering, risk predictions, and dynamic visualizations for trend analysis.
- -Exportable insights and customizable user experiences for different roles.
+ - Data filtering, risk predictions, and dynamic visualizations for trend analysis.
+ - Exportable insights and customizable user experiences for different roles.
   - ![image](https://github.com/user-attachments/assets/37e1231e-1583-4d78-a078-fc6150af918d)   ![image](https://github.com/user-attachments/assets/0c89ca96-018f-4a37-8f4f-be288502181e)
 -
  
-### Appointment Scheduler
-- **Objective**: Enable patients to book appointments seamlessly using  Streamlit
+###  Patient Risk Score Calculator and Appointment Scheduler
+- **Objective**: Enable patients to calculate risks score and book appointments seamlessly using  Streamlit and Cal.com
 - **Features**:
-  -Risk Assessment: Calculate a total disease risk score based on input conditions and severity levels.
-  -Visualization: Interactive chart displaying detailed risk breakdown and follow-up recommendations.
- - ![image](https://github.com/user-attachments/assets/204d7c52-4d47-41ae-a004-06b83871f94a)  
-
+  - Risk Score Calculator: Calculate a total disease risk score based on input disease, symptoms and severity keywords provided by patients
+  - Appointment Scheduler: Patient can schedule meeting to doctors as per the slot of their choice using cal.com
+ - <p align="center">
+  <img src="https://github.com/user-attachments/assets/dbbe3b26-4af0-42a4-a819-7657797267b5" alt="Image 3" style="width: 45%; margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/9fb37494-744f-4bf9-ac90-b61169a711aa" alt="Image 4" style="width: 45%;">
+</p>
 
 ---
 
 ## Technology Stack
 - **Programming Languages**: Python
-- **Frameworks**:  Streamlit
+- **Frameworks**: Streamlit
 - **Libraries**:
   - Machine Learning: scikit-learn, TensorFlow, pandas
   - Data Visualization: Matplotlib, Seaborn
   - NLP: NLTK, spaCy
   - Dashboard :JupyterDash, dash, plotly
-  - GUI: Tkinter
+  - Calender Integration: Cal.com
 
 ---
 ## Team 3
