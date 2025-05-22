@@ -72,6 +72,9 @@
 ---
 ## Team 3
 - **Gayatri Gide**
-
-
+- **Abhinav Penchala**
 ----
+## About This Project
+
+- This project was developed as part of my internship at Infosys Springboard, under the guidance of Mudita Saboo.  
+Original repository: [https://github.com/gayatrigide/Infosysinternship_Telemedicine.git](https://github.com/gayatrigide/Infosysinternship_Telemedicine.git)
